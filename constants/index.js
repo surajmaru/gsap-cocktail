@@ -1,5 +1,9 @@
 const navLinks = [
  {
+	id: "hero",
+	title: "Home",
+ },
+ {
 	id: "cocktails",
 	title: "Cocktails",
  },
@@ -8,7 +12,7 @@ const navLinks = [
 	title: "About Us",
  },
  {
-	id: "work",
+	id: "art",
 	title: "The Art",
  },
  {
@@ -102,10 +106,10 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "vile parle, Mumbai, Maharashtra 400057",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "+91 98765 43210",
+	email: "cafeebros@gmail.com",
  },
 };
 

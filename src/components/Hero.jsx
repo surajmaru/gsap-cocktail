@@ -76,7 +76,7 @@ function Hero() {
   return (
     <>
     <section className="noisy" id="hero">
-        <h1 className="title"> MOJITO </h1>
+        <h1 className="title">CAFEE BROS</h1>
 
         <img src="/images/hero-left-leaf.png" alt="mojito" className="left-leaf" />
         <img src="/images/hero-right-leaf.png" alt="mojito" className="right-leaf" />
