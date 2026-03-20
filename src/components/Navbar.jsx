@@ -26,9 +26,9 @@ const Navbar = () => {
   return (
     <nav>
         <div>
-            <a href='#hero' className='flex items-center gap-2'>
+            <a href='https://surajmaru-dev.vercel.app/' target='_blank' className='flex items-center gap-2'>
                 <img src='/images/logo.png' alt='logo' />
-                <p>Velvet Pour</p>
+                <p>SURAJ MARU</p>
             </a>
 
             <ul>
