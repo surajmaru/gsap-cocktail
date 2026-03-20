@@ -15,7 +15,7 @@ function Art() {
                 trigger: "#art",
                 start,
                 end: "bottom center",
-                scrub: 1.5,
+                scrub: 5,
                 pin: true,
             }
         });
